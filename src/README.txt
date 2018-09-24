@@ -1,10 +1,12 @@
 
 
 **************************************
-| Spotinst Java Task By Yuval Padova |
+| File System Manger By Yuval Padova |
 **************************************
+the progrems handles a file system. there are four actions availble: add directory, add file, deletion 
+and prininting of the File system (with hierarchy) 
 
-the zip file contains:
+
 four program classes:
 	• FileSystemMember
 	• File
@@ -16,10 +18,4 @@ and functions in action.
 
 The attached UML shows the program classes and the relationship between them
 also the major methods and members of each class.
-
-I had a great time,
-thanks in advance,
-Yuval Padova
-+97250-4516171
-
  
