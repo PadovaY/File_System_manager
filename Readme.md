@@ -1,12 +1,16 @@
-# File System Manger By Yuval Padova #
+# File System Manger By Yuval Padova 
 
 the progrems handles a file system. there are four actions availble: add directory, add file, deletion 
 and prininting of the File system (with hierarchy) 
 
 four program classes:
+	
 	• FileSystemMember
+	
 	• File
+	
 	• Directory
+	
 	• FileSystem
 
 additionally there is a tester class to show performance 
